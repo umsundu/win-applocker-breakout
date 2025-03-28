@@ -1,3 +1,14 @@
+⚠️ # Disclaimer
+
+    **Important:** The tools and scripts provided in this repository are intended for educational and authorised engagements only.
+
+    In a live environment, these tools will **most likely require modification or obfuscation** to evade signature-based detection mechanisms.
+
+    **Use at your own risk**. No responsibility is accepted for unauthorised use, misuse, or any consequences that may result.
+
+    By accessing this repository, you acknowledge that you understand and accept these terms.
+
+
 # win-applocker-breakout
 Tools used for applocker breakout when the usual methods fail.
 
